@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/yash-278/Frontend-Mentor-Challenges/tree/main/Four-Card-Feature-Section)
-- Live Site URL: [Live Demo](https://yash-278.github.io/Frontend-Mentor-Challenges/Four-Card-Feature-Section/index.html)
+- Solution URL: [Github Repo](https://github.com/roy-eugene049/four-card-feature-section)
+- Live Site URL: [Live Demo](https://four-card-feature-section-ten-alpha.vercel.app/)
 
 ## My process
 
@@ -39,6 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Yash Kadam](https://www.yashkadam.cf)
-- Frontend Mentor - [@yash-278](https://www.frontendmentor.io/profile/yash-278)
-- Github - [@yash-278](https://github.com/yash-278)
+- Frontend Mentor - [@roy-eugene049](https://www.frontendmentor.io/profile/roy-eugene049)
+- Github - [@roy-eugene049](https://github.com/roy-eugene049)
